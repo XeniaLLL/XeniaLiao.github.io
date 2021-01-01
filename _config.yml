@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Liao Xinting"
 title_separator          : "-"
-name                     : &name ""Liao Xinting""
+name                     : &name "Liao Xinting""
 description              : &description "personal description"
 URL                      : "https://XeniaLLL.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
