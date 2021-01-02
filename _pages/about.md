@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Zhang Wenfang
-
 I am currently a Doctor’s student in Zhejiang University studying Computer Science and Technology. I finished my Bachelor’s degree in Software Engineering Department, Sichuan University.
 
 My research interests include: Artificial Intelligence, Deep Learning and Portfolio Selection.
